@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apm | sort -d
+echo 'mkdir -p welcome/to/school' >> 102-tree
