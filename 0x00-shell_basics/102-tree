@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'mkdir -p welcome/to/school' >> 102-tree
+mkdir -p welcome/to/school
